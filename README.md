@@ -1,2 +1,2 @@
 # UTN-TUPaDProgramacion1
-Aquí se subirá el contenido de las distintas unidades de la materia. 
+Aquí se subirán todas prácticas de cada una de las unidades de la cursada.  
